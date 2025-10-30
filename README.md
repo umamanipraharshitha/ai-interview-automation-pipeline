@@ -1,5 +1,5 @@
 
-# AI Interview Automation Pipeline
+# AI-powered pre-interview automation system
 ##  Overview
 
 **AI Interview Automation Pipeline** is an intelligent end-to-end system that automates candidate interview analysis using AI. It collects resumes, processes them with **Gemini AI**, and generates structured evaluations and ATS scores. The system integrates seamlessly with Firebase, Google Drive, and Google Sheets for efficient, automated workflows.
@@ -152,6 +152,7 @@ flutter run
 * Recruiter dashboard with visualization & shortlisting
 * Real-time analytics of ATS scores
 * Integration with LinkedIn for profile import
+
 
 
 
