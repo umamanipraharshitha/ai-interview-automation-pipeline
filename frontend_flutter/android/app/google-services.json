@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352002306797",
+    "project_id": "ai-interview-app-5",
+    "storage_bucket": "ai-interview-app-5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352002306797:android:e126acbf69722caf0992e4",
+        "android_client_info": {
+          "package_name": "com.example.frontend_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0FMP-4oLRbmMWpIVefo1CO2Bu-5FgQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

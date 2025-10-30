@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["http://localhost:57294", "http://127.0.0.1:5000", "https://yourapp.web.app"],
+    "method": ["GET", "POST", "PUT", "HEAD", "DELETE"],
+    "maxAgeSeconds": 3600,
+    "responseHeader": ["Content-Type", "x-goog-meta-*"]
+  }
+]
