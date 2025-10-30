@@ -141,8 +141,8 @@ flutter run
 1. Candidate logs in via Flutter using Firebase.
 2. Uploads resume → FastAPI uploads to Google Drive.
 3. Gemini AI processes and extracts key insights.
-4. Results saved in Google Sheets automatically.
-5. Candidate receives email summary (optional).
+4. Results saved in Google Sheets automatically with descreasing order of ATS score.
+
 
 ---
 
@@ -152,5 +152,6 @@ flutter run
 * Recruiter dashboard with visualization & shortlisting
 * Real-time analytics of ATS scores
 * Integration with LinkedIn for profile import
+
 
 
