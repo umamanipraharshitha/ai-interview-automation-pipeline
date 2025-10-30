@@ -61,7 +61,8 @@ ai-interview-automation-pipeline/
 │
 ├── firebase_backend/
 │   ├── main.py                # FastAPI backend
-│   ├── analyzer.py            # Gemini + Sheets automation
+│   ├── automation.py          # Gemini + Sheets automation
+│   ├── test.py 
 │   ├── serviceAccountKey.json # Firebase Admin key (private)
 │   ├── service.json           # Google service key (private)
 │   ├── .env                   # Environment variables
@@ -151,4 +152,5 @@ flutter run
 * Recruiter dashboard with visualization & shortlisting
 * Real-time analytics of ATS scores
 * Integration with LinkedIn for profile import
+
 
